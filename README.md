@@ -1,2 +1,2 @@
 ﻿# Decentralized-Lottery
-# Application built using HTML, CSS, JavaScript, Solidity
+Application built using HTML, CSS, JavaScript, Solidity
